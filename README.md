@@ -192,6 +192,7 @@ flix_api/
 ```
 
 ## Futuras atualizações
+- Adicionar Validações
 - Autenticação com JWT
 - Testes automatizados (pytest)
 
