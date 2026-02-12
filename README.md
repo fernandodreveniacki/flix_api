@@ -107,7 +107,7 @@ A API segue padrão de versionamento via URL:
 ---
 
 ## Estrutura do Projeto
-
+```text
 flix_api/
 │
 ├── actors/
@@ -159,7 +159,7 @@ flix_api/
 ├── .gitignore
 ├── manage.py
 └── README.md
-
+```
 ## Como Executar
 
 ### 1. Clonar o repositório
